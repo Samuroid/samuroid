@@ -18,4 +18,9 @@ An online game in the early 2000s that motivated me to create fansites for mysel
 
 #### What is the most important thing to me?
 
-Ensuring my life is as simple as possible.
+Simplification, Fun, Helping others and Skating.
+
+**Buy me a coffee** ☕️
+
+Like what I'm doing?
+Then keep me fueled and buy me a coffee... please 🙏🏾 <a href="http://www.buymeacoffee.com/sambruton" target="_blank">buymeacoffee.com/sambruton</a>
