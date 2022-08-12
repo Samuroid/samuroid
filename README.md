@@ -1,3 +1,8 @@
+<h1>Sam Bruton ~ Frontend Developer at <a href="https://uxcreative.co/" title="Underexposed | UXCreative Graphic Design Company"><i>Underexposed</i></a> </h1>
+
+<h2>How to become a web developer and the developers mindset => <a href="https://www.thefrontendist.com" title="Frontend Web Developer">TheFrontendist.com</a></h2>
+
+
 ### Hi there 👋
 
 **Samuroid/samuroid** is a ✨ _special_ ✨ personal repo portfolio as a Frontend web developer in Northwest of England.
