@@ -1,6 +1,8 @@
 <h1>Sam Bruton ~ Frontend Developer at <a href="https://uxcreative.co/" title="Underexposed | UXCreative Graphic Design Company"><i>Underexposed</i></a> </h1>
 
-<h2>How to become a web developer and the developers mindset => <a href="https://www.thefrontendist.com" title="Frontend Web Developer">TheFrontendist.com</a></h2>
+<p>Underexposed git account: https://github.com/Sambuxc</p>
+
+<h2>I like to write blog articles on web development and the developers mindset => <a href="https://www.thefrontendist.com" title="Frontend Web Developer">TheFrontendist.com</a></h2>
 
 
 ### Hi there 👋
