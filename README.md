@@ -1,27 +1,26 @@
-<h1>Sam Bruton ~ Frontend Developer at <a href="https://uxcreative.co/" title="Underexposed | UXCreative Graphic Design Company"><i>Underexposed</i></a> </h1>
+<h1>Sam Bruton ~ Frontend Developer </h1>
 
-<p>Underexposed git account: https://github.com/Sambuxc</p>
+<p>https://github.com/Sambuxc</p>
 
-<h2>I like to write blog articles on web development and the developers mindset => <a href="https://www.thefrontendist.com" title="Frontend Web Developer">TheFrontendist.com</a></h2>
+<h2>I like to write blog articles about web development and the developer's mindset => <a href="https://www.thefrontendist.com" title="Frontend Web Developer">TheFrontendist.com</a></h2>
 
 
 ### Hi there 👋
 
-**Samuroid/samuroid** is a ✨ _special_ ✨ personal repo portfolio as a Frontend web developer in Northwest of England.
+**Samuroid/samuroid** is a ✨ _special_ ✨ personal repo portfolio as a Frontend web developer in Northwest England.
 
 :bowtie: :computer:
 
-- 🔭  I’m currently working on a digital marketing team as a frontend web developer. We use Wordpress to get your business's goals lifted.
-- 🌱  I’m currently learning react and Wordpress theme customisation.
-- 👯  I’m looking to collaborate on projects that are fun and creative.
-- 🤔  I’m looking for help with Wordpress theme customisation.
-- 💬  Ask me about tweaking your website for a better performance and higher SEO ranking.
--  ⚡  Fun fact: I skate inline & boards
+- 🔭  2 years of experience - Shopify theme customisation
+- 🌱  I’m learning to be a better writer and communicator
+- 👯  I’m looking to collaborate on projects that are fun and creative
+- 💬  Ask me about how to improve your website User Interface and User Experience
+-  ⚡  Fun fact: I skateboard and ride aggressive rollerblades
 
 
 #### How did I get into Web Dev?
 
-An online game in the early 2000s that motivated me to create fansites for myself and other players! I designed, coded and hosted their websites and provided shoutcast radios so that visitors could enjoy music whilst exploring content.
+I saw a niche market in a multi-massive online chatting community (MMOCC) game called Habbo Hotel in the early 2000s and decided to create fansites for myself and other players. I designed, coded and hosted their websites and provided shoutcast radios so that visitors could enjoy music whilst exploring webpage content.
 
 #### What is the most important thing to me?
 
